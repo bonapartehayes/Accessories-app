@@ -9,7 +9,7 @@ var baseURL;
 //   baseURL = process.env.REACT_APP_API_BASE_URL;
 // } else
 // baseURL = "https://backend-cool-tees.herokuapp.com/";
-baseURL = 'https://backend-accessories-website.herokuapp.com/';
+baseURL = 'https://bac-acc.herokuapp.com/';
 
 const api = axios.create({
     baseURL: baseURL,
