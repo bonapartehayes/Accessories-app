@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-hayes.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone
+git clone https://github.com/bonapartehayes/Accessories-app.git
 ```
 2. Backend setting
 ```
